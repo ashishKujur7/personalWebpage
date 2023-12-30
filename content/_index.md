@@ -7,19 +7,21 @@ math = true
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am Ashish Kujur, a student of Mathematics from Rourkela, Odisha. Currently, I am a first year PhD student of Mathematics at the Indian Institute of Science Education and Research in Thiruvananthapuram. Md. Ramiz Reza is my advisor for my PhD.
+I am Ashish Kujur, a student of Mathematics from [Rourkela, Odisha](https://en.wikipedia.org/wiki/Rourkela). Currently, I am a first year PhD student of Mathematics at the [Indian Institute of Science Education and Research in Thiruvananthapuram](https://www.iisertvm.ac.in/). My PhD advisor is [Md. Ramiz Reza](https://www.iisertvm.ac.in/faculty/ramiz).
 
 I did my bachelor's at Loyola College, Chennai, and my master's at IISER Thiruvananthapuram. 
 
-Apart from math, I like exploring free software and playing the guitar. I'm open to meeting new people and collaborating. Feel free to reach out!
+Apart from math, I like exploring [free software](https://en.wikipedia.org/wiki/Free_and_open-source_software) and playing the guitar. I'm open to meeting new people and collaborating. Feel free to reach out!
 
 ## Research Interest(s)
 
-I am currently studying Operator Theory on Hilbert spaces of Analytic Function Spaces.
+I am currently studying [Operator Theory](https://en.wikipedia.org/wiki/Operator_theory) on [Hilbert spaces](https://en.wikipedia.org/wiki/Hilbert_space) of [Holomorphic Functions](https://en.wikipedia.org/wiki/Holomorphic_function).
 
 ## Publications
 
 Coming soon?
+
+{{<figure class="figure" src="/bott.jpg">}}
 
 <!-- ## References
 
