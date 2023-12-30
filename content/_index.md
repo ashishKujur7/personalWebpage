@@ -7,11 +7,11 @@ math = true
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-Hello, I'm Ashish Kujur, originally from [Rourkela, Odisha](https://en.wikipedia.org/wiki/Rourkela), currently pursuing my PhD at the [Indian Institute of Science Education and Research, Thiruvananthapuram](https://www.iisertvm.ac.in/).
+I am Ashish Kujur, a student of Mathematics from Rourkela, Odisha. Currently, I am a first year PhD student of Mathematics at the Indian Institute of Science Education and Research in Thiruvananthapuram. Md. Ramiz Reza is my advisor for my PhD.
 
-I earned my Bachelor's degree from [Loyola College, Chennai](https://www.loyolacollege.edu/), and completed my Master's degree at IISER Thiruvananthapuram. Under the guidance of [Md. Ramiz Reza](https://www.iisertvm.ac.in/faculty/ramiz), I pursued my master's thesis, and I am continuing my doctoral studies at the same institution under his supervision.
+I did my bachelor's at Loyola College, Chennai, and my master's at IISER Thiruvananthapuram. 
 
-Apart from pure mathematics, I find joy in playing the guitar and exploring [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software). I am open to connecting and collaborating, so please feel free to reach out.
+Apart from math, I like exploring free software and playing the guitar. I'm open to meeting new people and collaborating. Feel free to reach out!
 
 ## Research Interest(s)
 
