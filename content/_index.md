@@ -19,9 +19,16 @@ I am currently studying [Operator Theory](https://en.wikipedia.org/wiki/Operator
 
 ## Publications
 
-Coming soon?
+Hopefully, coming soon?
 
-{{<figure class="figure" src="/bott.jpg">}}
+> There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else -- but persistent.
+>
+> — Raoul Bott 
+
+> The Germans have aptly called Sitzfleisch the ability to spend endless
+hours at a desk doing grueling work. Sitzfleisch is considered by mathematicians to be a better gauge of success than any of the attractive definitions of talent with which psychologists regale us from time to time.
+>
+> — Gian-Carlo Rota
 
 <!-- ## References
 
