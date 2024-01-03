@@ -2,7 +2,7 @@
 title = "Ashish Kujur: Interesting Links"
 +++
 
-This is a compilation of links that I find might be of some help to the budding (function theoretic) operator theorist:
+This is a compilation of links that I believe might be helpful to budding (function-theoretic) operator theorists:
 
 1. [OTTER - Operator Theory Talks for Early Researchers](https://sites.google.com/view/otter-math/home)
 2. [FOCAHA - Forum of Complex And Harmonic Analysis](https://sites.google.com/view/focaha/home?authuser=0)
@@ -17,3 +17,4 @@ Here are some lecture notes on some topics related to Operator Theory that one m
 4. [A survey of Drury Arveson space by Michael Hartz](https://arxiv.org/pdf/2204.01559.pdf)
 5. [A survey of Model Spaces by Stephan R Garcia & William T Ross](https://arxiv.org/pdf/1312.5018.pdf)
 6. [A survey of Dirichlet Space by Nicola Arcozzi, Richard Rochberg, Eric T Sawyer, and Brett D Wick](https://arxiv.org/pdf/1008.5342.pdf)
+7. [Lecture Notes on Clark Measures](https://facultystaff.richmond.edu/~wross/PDF/Clark.pdf)
