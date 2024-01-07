@@ -17,7 +17,7 @@ Find my CV [here](/mycv.pdf)!
 
 ## Research Interest(s)
 
-I am currently studying [Operator Theory](https://en.wikipedia.org/wiki/Operator_theory) on [Hilbert spaces](https://en.wikipedia.org/wiki/Hilbert_space) of [Holomorphic Functions](https://en.wikipedia.org/wiki/Holomorphic_function).
+I am broadly studying Analytic Function Spaces and their Operators. 
 
 <!-- ## References
 
