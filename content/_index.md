@@ -17,7 +17,7 @@ Find my CV [here](/mycv.pdf)!
 
 ## Research Interest(s)
 
-I am broadly studying Analytic Function Spaces and their Operators. 
+I am broadly studying Functional Analysis, Analytic Function Spaces and their Operators. 
 
 <!-- ## References
 
