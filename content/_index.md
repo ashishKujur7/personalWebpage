@@ -11,13 +11,11 @@ I am Ashish Kujur, a student of Mathematics from [Rourkela, Odisha](https://en.w
 
 I did my bachelor's at Loyola College, Chennai, and my master's at IISER Thiruvananthapuram. 
 
-Apart from math, I like exploring [free software](https://en.wikipedia.org/wiki/Free_and_open-source_software) and playing the guitar. I'm open to meeting new people and collaborating. Feel free to reach out!
-
-Find my CV [here](/mycv.pdf)!
+Apart from math, I like exploring [free software](https://en.wikipedia.org/wiki/Free_and_open-source_software). I also interest myself in playing badminton and playing the guitar. You may find my brief CV [here](/mycv.pdf).
 
 ## Research Interest(s)
 
-I am broadly studying Analytic Function Spaces and their Operators. 
+I am broadly studying Functional Analysis, Analytic Function Spaces and their Operators. 
 
 <!-- ## References
 
